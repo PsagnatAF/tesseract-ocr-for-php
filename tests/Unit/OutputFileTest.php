@@ -1,7 +1,7 @@
-<?php namespace thiagoalessio\TesseractOCR\Tests\Unit;
+<?php namespace psagnataf\TesseractOCR\Tests\Unit;
 
-use thiagoalessio\TesseractOCR\Tests\Common\TestCase;
-use thiagoalessio\TesseractOCR\Command;
+use psagnataf\TesseractOCR\Tests\Common\TestCase;
+use psagnataf\TesseractOCR\Command;
 
 class OutputFileTest extends TestCase
 {

@@ -1,8 +1,8 @@
-<?php namespace thiagoalessio\TesseractOCR;
+<?php namespace psagnataf\TesseractOCR;
 
-use thiagoalessio\TesseractOCR\Command;
-use thiagoalessio\TesseractOCR\Option;
-use thiagoalessio\TesseractOCR\FriendlyErrors;
+use psagnataf\TesseractOCR\Command;
+use psagnataf\TesseractOCR\Option;
+use psagnataf\TesseractOCR\FriendlyErrors;
 
 class TesseractOCR
 {

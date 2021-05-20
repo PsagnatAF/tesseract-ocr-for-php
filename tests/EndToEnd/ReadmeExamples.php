@@ -1,8 +1,8 @@
-<?php namespace thiagoalessio\TesseractOCR\Tests\EndToEnd;
+<?php namespace psagnataf\TesseractOCR\Tests\EndToEnd;
 
-use thiagoalessio\TesseractOCR\TesseractOcrException;
-use thiagoalessio\TesseractOCR\Tests\Common\TestCase;
-use thiagoalessio\TesseractOCR\TesseractOCR;
+use psagnataf\TesseractOCR\TesseractOcrException;
+use psagnataf\TesseractOCR\Tests\Common\TestCase;
+use psagnataf\TesseractOCR\TesseractOCR;
 use ReflectionObject;
 
 class ReadmeExamples extends TestCase

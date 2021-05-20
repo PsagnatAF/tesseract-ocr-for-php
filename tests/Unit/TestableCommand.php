@@ -1,6 +1,6 @@
-<?php namespace thiagoalessio\TesseractOCR\Tests\Unit;
+<?php namespace psagnataf\TesseractOCR\Tests\Unit;
 
-use thiagoalessio\TesseractOCR\Command;
+use psagnataf\TesseractOCR\Command;
 
 class TestableCommand extends Command
 {

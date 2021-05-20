@@ -1,12 +1,12 @@
-<?php namespace thiagoalessio\TesseractOCR\Tests\EndToEnd;
+<?php namespace psagnataf\TesseractOCR\Tests\EndToEnd;
 
-use thiagoalessio\TesseractOCR\Tests\Common\TestCase;
-use thiagoalessio\TesseractOCR\TesseractOCR;
-use thiagoalessio\TesseractOCR\Tests\Unit\TestableCommand;
+use psagnataf\TesseractOCR\Tests\Common\TestCase;
+use psagnataf\TesseractOCR\TesseractOCR;
+use psagnataf\TesseractOCR\Tests\Unit\TestableCommand;
 
-use thiagoalessio\TesseractOCR\ImageNotFoundException;
-use thiagoalessio\TesseractOCR\TesseractNotFoundException;
-use thiagoalessio\TesseractOCR\UnsuccessfulCommandException;
+use psagnataf\TesseractOCR\ImageNotFoundException;
+use psagnataf\TesseractOCR\TesseractNotFoundException;
+use psagnataf\TesseractOCR\UnsuccessfulCommandException;
 
 class FriendlyErrors extends TestCase
 {

@@ -1,9 +1,9 @@
-<?php namespace thiagoalessio\TesseractOCR\Tests\Unit;
+<?php namespace psagnataf\TesseractOCR\Tests\Unit;
 
-use thiagoalessio\TesseractOCR\Tests\Common\TestCase;
-use thiagoalessio\TesseractOCR\TesseractOCR;
-use thiagoalessio\TesseractOCR\Command;
-use thiagoalessio\TesseractOCR\Tests\Unit\TestableCommand;
+use psagnataf\TesseractOCR\Tests\Common\TestCase;
+use psagnataf\TesseractOCR\TesseractOCR;
+use psagnataf\TesseractOCR\Command;
+use psagnataf\TesseractOCR\Tests\Unit\TestableCommand;
 
 class TesseractOCRTest extends TestCase
 {

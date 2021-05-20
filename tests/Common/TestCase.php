@@ -1,4 +1,4 @@
-<?php namespace thiagoalessio\TesseractOCR\Tests\Common;
+<?php namespace psagnataf\TesseractOCR\Tests\Common;
 
 class TestCase
 {

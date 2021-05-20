@@ -1,4 +1,4 @@
-<?php namespace thiagoalessio\TesseractOCR\Tests;
+<?php namespace psagnataf\TesseractOCR\Tests;
 
 require_once __DIR__.'/../vendor/autoload.php';
 

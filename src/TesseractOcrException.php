@@ -1,6 +1,6 @@
 <?php
 
-namespace thiagoalessio\TesseractOCR;
+namespace psagnataf\TesseractOCR;
 
 abstract class TesseractOcrException extends \Exception
 {

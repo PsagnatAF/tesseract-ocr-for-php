@@ -1,6 +1,6 @@
 <?php
 
-namespace thiagoalessio\TesseractOCR;
+namespace psagnataf\TesseractOCR;
 
 class TesseractNotFoundException extends TesseractOcrException
 {

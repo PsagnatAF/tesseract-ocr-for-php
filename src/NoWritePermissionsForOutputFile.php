@@ -1,6 +1,6 @@
 <?php
 
-namespace thiagoalessio\TesseractOCR;
+namespace psagnataf\TesseractOCR;
 
 class NoWritePermissionsForOutputFile extends TesseractOcrException
 {

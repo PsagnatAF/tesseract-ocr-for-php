@@ -1,4 +1,4 @@
-<?php namespace thiagoalessio\TesseractOCR;
+<?php namespace psagnataf\TesseractOCR;
 
 class FriendlyErrors
 {
