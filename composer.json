@@ -1,5 +1,5 @@
 {
-	"name": "thiagoalessio/tesseract_ocr",
+	"name": "psagnataf/tesseract_ocr",
 	"description": "A wrapper to work with Tesseract OCR inside PHP.",
 	"version": "2.11.2",
 	"type": "library",
@@ -9,13 +9,12 @@
 		{
 			"name": "thiagoalessio",
 			"email": "thiagoalessio@me.com"
+		},
+		{
+			"name": "psagnataf",
+			"email": "psagnat.af@gmail.com"
 		}
 	],
-	"support": {
-		"issues": "https://github.com/thiagoalessio/tesseract-ocr-for-php/issues",
-		"irc": "irc://irc.freenode.net/tesseract-ocr-for-php",
-		"source": "https://github.com/thiagoalessio/tesseract-ocr-for-php"
-	},
 	"require": {
 		"php": "^5.3 || ^7.0 || ^8.0"
 	},
@@ -24,12 +23,12 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"thiagoalessio\\TesseractOCR\\": "src/"
+			"psagnataf\\TesseractOCR\\": "src/"
 		}
 	},
 	"autoload-dev": {
 		"psr-4": {
-			"thiagoalessio\\TesseractOCR\\Tests\\": "tests/"
+			"psagnataf\\TesseractOCR\\Tests\\": "tests/"
 		}
 	}
 }
